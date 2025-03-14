@@ -1,5 +1,4 @@
-Email = "70110669@student.uol.edu.pk"
-passwd = "BITBASH2024"
+
 
 import csv
 import time
