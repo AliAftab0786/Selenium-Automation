@@ -1,5 +1,4 @@
-Email = "takwatech.offical@gmail.com"
-passwd = "BITBASH0306"
+
 
 from utils import *
 import csv
